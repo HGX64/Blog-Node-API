@@ -49,9 +49,23 @@ chmod +x start.sh
 </p>
 
 # API usages
-## Examples (User register/login)
+## Auth
 <p align="center">
-<img src="assets/api_register_testing.gif"
+<img src="assets/api_auth.png"
+        alt="First"
+        style="float: left; margin-right: 10px;" />
+</p>
+
+## Posts
+<p align="center">
+<img src="assets/api_posts.png"
+        alt="First"
+        style="float: left; margin-right: 10px;" />
+</p>
+
+## Users
+<p align="center">
+<img src="assets/api_users.png"
         alt="First"
         style="float: left; margin-right: 10px;" />
 </p>
