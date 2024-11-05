@@ -69,3 +69,12 @@ chmod +x start.sh
         alt="First"
         style="float: left; margin-right: 10px;" />
 </p>
+
+# Extras
+## Cookies
+<p align="center">
+<img src="assets/api_cookies.gif"
+        alt="First"
+        style="float: left; margin-right: 10px;" />
+</p>
+
