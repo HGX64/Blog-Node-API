@@ -72,9 +72,4 @@ chmod +x start.sh
 
 # Extras
 ## Cookies
-<p align="center">
-<img src="https://drive.google.com/uc?id=1xXr7Nmh71GCdVlIanxbohdXnzIP12Vcw"
-        alt="First"
-        style="float: left; margin-right: 10px;" />
-</p>
-
+[GIF](https://drive.google.com/uc?id=1xXr7Nmh71GCdVlIanxbohdXnzIP12Vcw)
