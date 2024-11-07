@@ -41,31 +41,24 @@ chmod +x start.sh
 ./start.sh
 ```
 
-## API documentation
-<p align="center">
-<img src="assets/api_documentation.png"
-        alt="First"
-        style="float: left; margin-right: 10px;" />
-</p>
-
 # API usages
 ## Auth
 <p align="center">
-<img src="assets/api_auth.png"
+<img src="assets/api_auth_docs.png"
         alt="First"
         style="float: left; margin-right: 10px;" />
 </p>
 
 ## Posts
 <p align="center">
-<img src="assets/api_posts.png"
+<img src="assets/api_posts_docs.png"
         alt="First"
         style="float: left; margin-right: 10px;" />
 </p>
 
 ## Users
 <p align="center">
-<img src="assets/api_users.png"
+<img src="assets/api_users_docs.png"
         alt="First"
         style="float: left; margin-right: 10px;" />
 </p>
