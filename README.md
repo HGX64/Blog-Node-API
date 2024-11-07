@@ -70,3 +70,10 @@ chmod +x start.sh
         alt="First"
         style="float: left; margin-right: 10px;" />
 </p>
+
+## File upload
+<p align="center">
+<img src="assets/api_upload.gif"
+        alt="First"
+        style="float: left; margin-right: 10px;" />
+</p>
