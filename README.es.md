@@ -4,7 +4,7 @@ Una API simple y poderosa para Blog construida con Node.js, Express y MongoDB. E
 
 **Idiomas disponibles:**
 - [🇪🇸 Español](./README.es.md)
-- 🇺🇸 English (esta versión)
+- 🇺🇸 English
 
 ---
 
