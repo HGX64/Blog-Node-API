@@ -65,4 +65,8 @@ chmod +x start.sh
 
 # Extras
 ## Cookies
-![GIF](https://drive.google.com/file/d/1xXr7Nmh71GCdVlIanxbohdXnzIP12Vcw/view?usp=sharing)
+<p align="center">
+<img src="assets/api_cookies.gif"
+        alt="First"
+        style="float: left; margin-right: 10px;" />
+</p>
